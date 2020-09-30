@@ -5,3 +5,6 @@
 
 ### 2. Navigating in Microsoft Visual Studio ###
 <img src="navigate.png" />
+
+### 3. How to go inside method definition in Microsofot Visual Studio ###
+- Press click on method then press F12.
