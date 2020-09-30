@@ -14,3 +14,9 @@
 
 ### 5. How to open bookmark window in Microsoft Visual Studio ? ###
 - Press Ctrl+K then Ctrl+W
+
+
+## How to do debugging in Microsoft Visual Studio ##
+### 1. how to add breakpoint inside Microsoft Visual Studiio ###
+- Click on the silver area
+
