@@ -1,1 +1,1 @@
-# How to invoke asynchronous method from synchronous method in C# #
+# Invoke asynchronous method from synchronous method in C ?# #
